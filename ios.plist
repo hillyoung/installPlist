@@ -9,7 +9,7 @@
 			<array>
 				<dict>
 					<key>kind</key>
-					<string>http://localhost:8888/install.ipa</string>
+					<string>https://github.com/yanghaha/installPlist/blob/master/install.ipa</string>
 					<key>url</key>
 					<string></string>
 				</dict>
